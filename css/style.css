@@ -166,7 +166,16 @@ figure {
 
 img {
   vertical-align: middle;
-  border-style: none; }
+  border-style: none; 
+}
+  
+.myimg{
+  border: 2px solid goldenrod;
+  border-radius: 50%;
+  width: 100%; /* Or a specific value */
+  height: 100%;
+  padding-bottom: 0;
+}
 
 svg {
   overflow: hidden;
